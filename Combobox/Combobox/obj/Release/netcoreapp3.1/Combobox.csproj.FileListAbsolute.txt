@@ -1,0 +1,16 @@
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\bin\Release\netcoreapp3.1\Combobox.exe
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\bin\Release\netcoreapp3.1\Combobox.deps.json
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\bin\Release\netcoreapp3.1\Combobox.runtimeconfig.json
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\bin\Release\netcoreapp3.1\Combobox.runtimeconfig.dev.json
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\bin\Release\netcoreapp3.1\Combobox.dll
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\bin\Release\netcoreapp3.1\Combobox.pdb
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.csproj.AssemblyReference.cache
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.Form1.resources
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.csproj.GenerateResource.cache
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.AssemblyInfoInputs.cache
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.AssemblyInfo.cs
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.csproj.CoreCompileInputs.cache
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.dll
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.pdb
+C:\Users\user1\桌面\Combobox114\Combobox113\Combobox111\Combobox\Combobox\obj\Release\netcoreapp3.1\Combobox.genruntimeconfig.cache
